@@ -26,4 +26,4 @@ An image captioning model using a Vision Transformer (ViT) encoder and a BERT-ba
 - This project is designed to be run on Kaggle. For testing purposes, it is recommended to use Kaggle.
 - Ensure that the dataset path is correctly set in the notebook.
 - In case of any issues, try enabling the "Internet" option in session settings, as this may resolve errors related to internet connectivity.
-- The **captions generated for the entire test dataset** are present in the **evaluation and results section**, in the cell just before calculating the metrics
+- The **captions generated for the entire test dataset** are present in the **evaluation and results section**, in the cell just before calculating the metrics.
